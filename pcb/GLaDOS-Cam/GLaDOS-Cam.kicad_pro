@@ -637,6 +637,10 @@
     [
       "b43665cb-2784-466c-b486-bfa3517fe342",
       "Power"
+    ],
+    [
+      "56591619-4a76-4e2b-8d7e-df9fede89a86",
+      "MEMS Microphone"
     ]
   ],
   "text_variables": {}

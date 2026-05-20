@@ -97,6 +97,48 @@
 		)
 	)
 	(sheet
+		(at 292.1 166.37)
+		(size 20.32 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "56591619-4a76-4e2b-8d7e-df9fede89a86")
+		(property "Sheetname" "MEMS Microphone"
+			(at 292.1 165.6584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mems_mic.kicad_sch"
+			(at 292.1 189.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GLaDOS-Cam"
+				(path "/a51b3253-77ea-45d8-948a-754bd3a810cd"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 182.88 106.68)
 		(size 44.45 40.64)
 		(exclude_from_sim no)
