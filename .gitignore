@@ -1,7 +1,7 @@
 # ── KiCad generated / cache ──────────────────────────────────────────────────
 fp-info-cache
 *.kicad_prl                 # local view state (zoom, layers, etc.) — per-user
-*-backups/                  # KiCad auto-backup zips
+**/*-backups/**                  # KiCad auto-backup zips
 
 # ── KiCad rescue / autosave ──────────────────────────────────────────────────
 _autosave-*
