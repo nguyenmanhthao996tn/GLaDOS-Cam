@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "glados-cam-lib")(type "KiCad")(uri "${KIPRJMOD}/glados-cam-lib/glados-cam-lib.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "glados-cam-lib")(type "KiCad")(uri "${KIPRJMOD}/glados-cam-lib/symbols/glados-cam-lib.kicad_sym")(options "")(descr ""))
+)

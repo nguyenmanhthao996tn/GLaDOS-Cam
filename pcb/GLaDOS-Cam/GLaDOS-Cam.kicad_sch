@@ -1,0 +1,273 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a51b3253-77ea-45d8-948a-754bd3a810cd")
+	(paper "A3")
+	(title_block
+		(title "Root")
+		(date "2026-05-21")
+		(rev "1.0.0")
+		(company "TTLab - FCE - UIT - HCMVNU")
+		(comment 1 "Author: mtnguyen")
+	)
+	(lib_symbols)
+	(sheet
+		(at 180.34 50.8)
+		(size 45.72 49.53)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "25bb0fd3-8139-4934-8cb1-13a6780bde68")
+		(property "Sheetname" "MicroSD"
+			(at 180.34 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "microsd.kicad_sch"
+			(at 180.34 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GLaDOS-Cam"
+				(path "/a51b3253-77ea-45d8-948a-754bd3a810cd"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 287.02 118.11)
+		(size 38.1 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "39dc8547-f5fa-4718-af9d-698d0114ee1e")
+		(property "Sheetname" "IO Headers"
+			(at 287.02 117.3984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "io_headers.kicad_sch"
+			(at 287.02 159.3346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GLaDOS-Cam"
+				(path "/a51b3253-77ea-45d8-948a-754bd3a810cd"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 182.88 106.68)
+		(size 44.45 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9147c26b-fd2e-48e1-8879-4f3497940165")
+		(property "Sheetname" "MCU"
+			(at 182.88 105.9684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 182.88 147.9046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GLaDOS-Cam"
+				(path "/a51b3253-77ea-45d8-948a-754bd3a810cd"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 124.46 104.14)
+		(size 36.83 43.18)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a23a1403-9b51-417a-b3e7-f9436d6e2685")
+		(property "Sheetname" "PSRAM"
+			(at 124.46 103.4284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "psram.kicad_sch"
+			(at 124.46 147.9046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GLaDOS-Cam"
+				(path "/a51b3253-77ea-45d8-948a-754bd3a810cd"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 189.23 158.75)
+		(size 41.91 54.61)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b43665cb-2784-466c-b486-bfa3517fe342")
+		(property "Sheetname" "Power"
+			(at 189.23 158.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 189.23 213.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GLaDOS-Cam"
+				(path "/a51b3253-77ea-45d8-948a-754bd3a810cd"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 262.89 78.74)
+		(size 31.75 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ce492bf2-0e45-405e-872e-b802a0225310")
+		(property "Sheetname" "Camera Connector"
+			(at 262.89 78.0284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cam_conn.kicad_sch"
+			(at 262.89 99.6446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "GLaDOS-Cam"
+				(path "/a51b3253-77ea-45d8-948a-754bd3a810cd"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

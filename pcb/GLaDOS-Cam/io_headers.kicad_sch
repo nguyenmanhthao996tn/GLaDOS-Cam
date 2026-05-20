@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "ecef909a-6f3a-41e2-b35b-5816f6766784")
+	(paper "A3")
+	(title_block
+		(date "2026-05-21")
+		(rev "1.0.0")
+		(company "TTLab - FCE - UIT - HCMVNU")
+		(comment 1 "Author: mtnguyen")
+	)
+	(lib_symbols)
+)

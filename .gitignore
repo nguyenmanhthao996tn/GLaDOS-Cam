@@ -1,0 +1,35 @@
+# ── KiCad generated / cache ──────────────────────────────────────────────────
+fp-info-cache
+*.kicad_prl                 # local view state (zoom, layers, etc.) — per-user
+*-backups/                  # KiCad auto-backup zips
+
+# ── KiCad rescue / autosave ──────────────────────────────────────────────────
+_autosave-*
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_pro-bak
+*.bak
+*.bck
+
+# ── Fabrication outputs (regenerate from source) ──────────────────────────────
+# Uncomment if you keep fab outputs out of the repo:
+# gerbers/
+# *.gbr
+# *.drl
+# *.dxf
+# *.pdf          # careful — you're tracking datasheets in docs/; remove if wanted
+
+# ── Simulation / SPICE ───────────────────────────────────────────────────────
+*.raw
+*.op.log
+
+# ── OS noise ─────────────────────────────────────────────────────────────────
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# ── Editor noise ─────────────────────────────────────────────────────────────
+*.swp
+*.swo
+*~
+.vscode/
