@@ -491,7 +491,7 @@
 	)
 	(symbol
 		(lib_id "glados-cam-lib:STLQ020C33R")
-		(at 137.16 102.87 0)
+		(at 140.97 115.57 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -500,7 +500,7 @@
 		(fields_autoplaced yes)
 		(uuid "07e930f1-6357-4d99-a1f6-55ac934d88ef")
 		(property "Reference" "U4"
-			(at 137.16 92.71 0)
+			(at 140.97 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -508,7 +508,7 @@
 			)
 		)
 		(property "Value" "STLQ020C33R"
-			(at 137.16 95.25 0)
+			(at 140.97 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -516,7 +516,7 @@
 			)
 		)
 		(property "Footprint" "glados-cam-lib:TSSOP-5_L2.0-W1.3-P0.65-LS2.1-BL"
-			(at 137.16 113.03 0)
+			(at 140.97 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -526,7 +526,7 @@
 			)
 		)
 		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20171208/C152728_15127341294501171490.pdf"
-			(at 134.874 102.743 0)
+			(at 138.684 115.443 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -536,7 +536,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 137.16 102.87 0)
+			(at 140.97 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -545,7 +545,7 @@
 			)
 		)
 		(property "LCSC" "C2970558"
-			(at 137.16 102.87 0)
+			(at 140.97 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -667,7 +667,7 @@
 	)
 	(symbol
 		(lib_id "glados-cam-lib:XC6206-1_2V_C49446790")
-		(at 212.09 107.95 0)
+		(at 215.9 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -676,7 +676,7 @@
 		(fields_autoplaced yes)
 		(uuid "799a2236-fd53-40eb-a16a-37c93a2158a4")
 		(property "Reference" "U6"
-			(at 212.09 99.06 0)
+			(at 215.9 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -684,7 +684,7 @@
 			)
 		)
 		(property "Value" "XC6206-1_2V_C49446790"
-			(at 212.09 101.6 0)
+			(at 215.9 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -692,7 +692,7 @@
 			)
 		)
 		(property "Footprint" "glados-cam-lib:SOT-23-3_L3.0-W1.6-P1.90-LS2.8-BR"
-			(at 212.09 118.11 0)
+			(at 215.9 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -702,7 +702,7 @@
 			)
 		)
 		(property "Datasheet" "https://atta.szlcsc.com/upload/public/pdf/source/20200309/C150720_EA5FFAC42CC5D7D051BA246B6393078B.pdf"
-			(at 209.804 107.823 0)
+			(at 213.614 120.523 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -712,7 +712,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 212.09 107.95 0)
+			(at 215.9 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -721,7 +721,7 @@
 			)
 		)
 		(property "LCSC" "C49446790"
-			(at 212.09 107.95 0)
+			(at 215.9 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
